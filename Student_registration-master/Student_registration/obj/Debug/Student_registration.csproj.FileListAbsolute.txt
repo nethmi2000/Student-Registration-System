@@ -1,0 +1,12 @@
+C:\DTEC 115\Student_registration\Student_registration\bin\Debug\Student_registration.exe.config
+C:\DTEC 115\Student_registration\Student_registration\bin\Debug\Student_registration.exe
+C:\DTEC 115\Student_registration\Student_registration\bin\Debug\Student_registration.pdb
+C:\DTEC 115\Student_registration\Student_registration\obj\Debug\Student_registration.csproj.AssemblyReference.cache
+C:\DTEC 115\Student_registration\Student_registration\obj\Debug\Student_registration.csproj.SuggestedBindingRedirects.cache
+C:\DTEC 115\Student_registration\Student_registration\obj\Debug\Student_registration.login_form.resources
+C:\DTEC 115\Student_registration\Student_registration\obj\Debug\Student_registration.Properties.Resources.resources
+C:\DTEC 115\Student_registration\Student_registration\obj\Debug\Student_registration.registration_frm.resources
+C:\DTEC 115\Student_registration\Student_registration\obj\Debug\Student_registration.csproj.GenerateResource.cache
+C:\DTEC 115\Student_registration\Student_registration\obj\Debug\Student_registration.csproj.CoreCompileInputs.cache
+C:\DTEC 115\Student_registration\Student_registration\obj\Debug\Student_registration.exe
+C:\DTEC 115\Student_registration\Student_registration\obj\Debug\Student_registration.pdb
